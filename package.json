@@ -1,0 +1,21 @@
+{
+  "name": "datetime-magic",
+  "version": "1.0.0",
+  "description": "Make you no longer worry about the conversion of date and time.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "time",
+    "datetime",
+    "conversion",
+    "format",
+    "utils",
+    "tools",
+    "js"
+  ],
+  "author": "Andy Fang",
+  "license": "MPL-2.0"
+}
